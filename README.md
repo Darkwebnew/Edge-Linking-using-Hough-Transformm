@@ -80,3 +80,5 @@ plt.show()
 
 ### Display the result of Hough transform
 
+## Result
+Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.
